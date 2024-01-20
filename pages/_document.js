@@ -4,22 +4,22 @@ export default function Document() {
   return (
     <Html lang='en'>
       <Head>
-        <meta name='description' content='Ordinal audio inscriptions.' />
+        <meta name='description' content='Ordinals Litecoin inscriptions.' />
         <meta
           name='keywords'
-          content='LiteMap, audio, inscription, bitcoin, brc20, nft, LiteMap, LiteMap'
+          content='LiteMap, inscription, bitcoin, brc20, nft, Ordinals, Litecoin'
         />
         <meta property='og:title' content={`LiteMap`} />
         <meta property='og:type' content='website' />
         <meta
           property='og:description'
-          content={`LiteMap inscription platform. Audio inscription per block.`}
+          content={`Litecoin Ordinals marketplace | Buy & Sell Litecoin inscriptions`}
         />
-        <meta property='og:url' content={`https://LiteMap.netlify.app/`} />
+        <meta property='og:url' content={`https://marketplace.ordinals.fun`} />
         <meta property='og:site_name' content='LiteMap'></meta>
         <meta
           property='og:image'
-          content='https://LiteMap.netlify.app/metaImage.jpg'
+          content='https://marketplace.ordinals.fun/metaImage.jpg'
         ></meta>
         <meta property='og:image:type' content='image/jpg'></meta>
         <meta property='og:image:width' content='2000'></meta>

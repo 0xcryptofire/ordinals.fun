@@ -7,7 +7,7 @@ export default function Layout(props) {
   return (
     <main>
       <Head>
-        <title>LiteMap</title>
+        <title>ordinals.fun</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#000000" />
         <meta
@@ -19,17 +19,17 @@ export default function Layout(props) {
           content="Litemap, ordinals, litecoin, PSBT, market place, NFTs, NFT, Banksy superstar set 1, Lil Ordies, Lite Punks, Litecoin Glitch Ordinals, Moonbirds, Punks, ordirobots, Ballers, Drip Cats, Armored, Lizards  "
           name="keywords"
         />
-        <meta property="og:title" content="LiteMap " />
-        <meta property="og:type" content="website" />
+        <meta property="og:title" content="ordinals.fun " />
+        <meta property="og:type" content="ordinals.fun" />
         <meta
           property="og:description"
           content="Litemap: The Best ordinals market place on Litecoin"
         />
-        <meta property="og:url" content="https://ordinals.fun" />
-        <meta property="og:site_name" content="LiteMap"></meta>
+        <meta property="og:url" content="https://marketplace.ordinals.fun" />
+        <meta property="og:site_name" content="ordinals.fun"></meta>
         <meta
           property="og:image"
-          content="https://ordinals.fun/logo.png"
+          content="https://marketplace.ordinals.fun/logo.png"
         ></meta>
         <meta property="og:image:type" content="image/png"></meta>
         <meta property="og:image:width" content="2000"></meta>
